@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 # Journal Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en)
-1. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Smooth Robust Tensor Completion for Background/Foreground Separation with Missing Pixels: Novel Algorithm with Convergence Guarantee.</span></b> Accept after minor revision at _Journal of Machine Learning Research._ (2022) <br>[[Preprint]](https://arxiv.org/abs/2203.16328)
+1. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Smooth Robust Tensor Completion for Background/Foreground Separation with Missing Pixels: Novel Algorithm with Convergence Guarantee.</span></b> Under review. (2022) <br>[[Preprint]](https://arxiv.org/abs/2203.16328)
 2. <b><ins>Bo Shen</ins></b>, Rongxuan Wang, Andrew Chung Chee Law, Rakesh Kamath, Hahn Choo, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Super Resolution for Multi-Sources Image Stream Data Using Smooth and Sparse Tensor Completion and Its Applications in Data Acquisition of Additive Manufacturing.</span></b> <i>Technometrics.</i> (2021) <br>[[Paper]](https://www.tandfonline.com/doi/full/10.1080/00401706.2021.1905074) [[Code]](https://www.tandfonline.com/doi/suppl/10.1080/00401706.2021.1905074?scroll=top) [[Poster]](http://boshen0.github.io/files/SSTCtechnometrics.pdf)
     * <span style="color: Tomato"> **Finalists for INFORMS QSR Best Refereed Paper Competition, 2020** </span>  
     * <span style="color: Tomato"> **Second place of poster competition in INFORMS & HFES Student Poster Competition, ISE, Virginia Tech, 2019** </span>   
