@@ -20,29 +20,30 @@ author_profile: true
     *  <span style="color: Tomato"> **Winner for IISE QCRE Division Best Student Paper Award**  </span>  
 9. Rongxuan Wang, David Garcia, Rakesh Kamath, Chaoran Dou, Xiaohan Ma, <b><ins>Bo Shen</ins></b>,  Hahn Choo, Kamel Fezzaa, Hang Yu, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">In-process Multi-physics Melt Pool Measurement and Correlation Analysis in Laser Powder Bed Fusion.</span></b> Accepted at <i>Scientific Reports.</i> (2022) <br>[[Preprint]](https://www.researchsquare.com/article/rs-1581310/v1)
     * <span style="color: Tomato">  **Winner for IISE Manufacturing and Design (M&D) Division Best Paper Award**  </span>  
-10. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Novel Sparse Bayesian Learning and Its Application to Fault Diagnosis for Multi-station Assembly Systems.</span></b> Major revision at <i>IISE Transactions.</i> (2022)
-11. Andrew Chung Chee Law, <b><ins>Bo Shen</ins></b>, Maede Maftouni, Benjamin Standfield, Xiaowei Yue, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Residual Stress Prediction with Reheating Effects of Thermal Cycles in Laser Powder Bed Fusion using Deep Neural Network.</span></b> Under review at <i>Manufacturing Letters.</i> (2022) 
-12. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Imbalanced Data Classification via Generative Adversarial Network with Application to Anomaly Detection in Additive Manufacturing Processes.</span></b> Under review at <i>IEEE Transactions on Automation Science and Engineering.</i> (2022) 
-13. Raghav Gnanasambandam, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Deep Gaussian Process Upper Confidence Bound for Optimizing Non-Stationary Functions and its Application in Additive Manufacturing.</span></b> Under review at <i>IISE Transactions.</i> (2022)
+10. Yi Chen, Jing Dong, Xin T. Tong, and <b><ins>Bo Shen</ins></b>.  <b><span style="color:RoyalBlue">Can We Do Better than Random Start? The Power of Data Outsouring.</span></b> Under revision. <br>[[Preprint]](https://arxiv.org/abs/2205.08098)
+11. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Novel Sparse Bayesian Learning and Its Application to Fault Diagnosis for Multi-station Assembly Systems.</span></b> Major revision at <i>IISE Transactions.</i> (2022)
+12. Andrew Chung Chee Law, <b><ins>Bo Shen</ins></b>, Maede Maftouni, Benjamin Standfield, Xiaowei Yue, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Residual Stress Prediction with Reheating Effects of Thermal Cycles in Laser Powder Bed Fusion using Deep Neural Network.</span></b> Under review at <i>Manufacturing Letters.</i> (2022) 
+13. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Imbalanced Data Classification via Generative Adversarial Network with Application to Anomaly Detection in Additive Manufacturing Processes.</span></b> Under review at <i>IEEE Transactions on Automation Science and Engineering.</i> (2022) 
+14. Raghav Gnanasambandam, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Deep Gaussian Process Upper Confidence Bound for Optimizing Non-Stationary Functions and its Application in Additive Manufacturing.</span></b> Under review at <i>IISE Transactions.</i> (2022)
 
 # Working Journal Papers
 
-{:start="14"}
+{:start="15"}
 
-14. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, Rongxuan Wang, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Automatic Melt Pool Segmentation and Tracking in the X-ray Image Sequence.</span></b> To be submitted to <i>IISE Transactions.</i> (2022)
+15. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, Rongxuan Wang, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Automatic Melt Pool Segmentation and Tracking in the X-ray Image Sequence.</span></b> To be submitted to <i>IISE Transactions.</i> (2022)
     * <span style="color: Tomato"> **Winner for IISE Manufacturing and Design (M&D) Division Best Student Paper Award**  </span>  
-15. Raghav Gnanasambandam, <b><ins>Bo Shen</ins></b>, Jihoon Chung, Xubo Yue, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Self-scalable Tanh (Stan): Faster Convergence and Better Generalization in Physics-informed Neural Networks.</span></b> To be submitted (2022)  <br>[[Preprint]](https://arxiv.org/abs/2204.12589)
+16. Raghav Gnanasambandam, <b><ins>Bo Shen</ins></b>, Jihoon Chung, Xubo Yue, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Self-scalable Tanh (Stan): Faster Convergence and Better Generalization in Physics-informed Neural Networks.</span></b> To be submitted (2022)  <br>[[Preprint]](https://arxiv.org/abs/2204.12589)
     *  <span style="color: Tomato"> **Winner for IISE QCRE/ProcessMiner Data Challenge Competition**  </span>  
-16. Andrew Chung Chee Law, <b><ins>Bo Shen</ins></b>,  and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Deep Ensemble with Active Learning for Inverse Process Parameter Design of Metal Additive Manufacturing.</span></b> To be submitted (2022) 
-17. <b><ins>Bo Shen</ins></b> and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Nonnegative Tensor-on-Tensor Regression with  Wasserstein Loss.</span></b> To be submitted (2022) 
+17. Andrew Chung Chee Law, <b><ins>Bo Shen</ins></b>,  and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Deep Ensemble with Active Learning for Inverse Process Parameter Design of Metal Additive Manufacturing.</span></b> To be submitted (2022) 
+18. <b><ins>Bo Shen</ins></b> and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Nonnegative Tensor-on-Tensor Regression with  Wasserstein Loss.</span></b> To be submitted (2022) 
 
 
 # Conference Papers 
 
 
-{:start="18"}
+{:start="19"}
 
-18. Maede Maftouni, Andrew Chung Chee Law, <b><ins>Bo Shen</ins></b>, Yanze Zhou, Niloofar Ayoobi Yazdi, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Robust Ensemble-Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> <i>Conference: Proceedings of the 2021 IISE Annual Conference</i> <br>[[Paper]](https://www.proquest.com/docview/2560887697) [[Code]](https://github.com/maftouni/Corona_CT_Classification) [[Dataset]](https://github.com/maftouni/Curated_Covid_CT) [[Poster]](http://boshen0.github.io/files/CovidIISE.pdf)
+19. Maede Maftouni, Andrew Chung Chee Law, <b><ins>Bo Shen</ins></b>, Yanze Zhou, Niloofar Ayoobi Yazdi, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Robust Ensemble-Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> <i>Conference: Proceedings of the 2021 IISE Annual Conference</i> <br>[[Paper]](https://www.proquest.com/docview/2560887697) [[Code]](https://github.com/maftouni/Corona_CT_Classification) [[Dataset]](https://github.com/maftouni/Curated_Covid_CT) [[Poster]](http://boshen0.github.io/files/CovidIISE.pdf)
 
 # Notes
 <b><span style="color:RoyalBlue">Robust Tensor Principal Component Analysis: Exact Recovery via Deterministic Model.</span></b> <br>[[Preprint]](https://arxiv.org/abs/2008.02211)
