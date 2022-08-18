@@ -4,6 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 # Journal Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en)
+## Published/Accepted 
 1. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Smooth Robust Tensor Completion for Background/Foreground Separation with Missing Pixels: Novel Algorithm with Convergence Guarantee.</span></b> _Journal of Machine Learning Research_. (2022) <br>[[Paper]](https://jmlr.org/papers/v23/22-0369.html) [[Code]](https://github.com/BoShen0/Smooth-Robust-Tensor-Completion-for-Background-Foreground-Separation-with-Missing-Pixels)
 2. <b><ins>Bo Shen</ins></b>, Raghav Gnanasambandam, Rongxuan Wang, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Multi-Task Gaussian Process Upper Confidence Bound for Hyperparameter Tuning and its Application for Simulation Studies of Additive Manufacturing.</span></b> <i>IISE Transactions.</i> (2022)  <br>[[Paper]](https://www.tandfonline.com/doi/full/10.1080/24725854.2022.2039813) [[Code]](https://github.com/BoShen0/Multi-task-GPUCB)
 3. <b><ins>Bo Shen</ins></b>, Rakesh Kamath, Hahn Choo, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Robust Tensor Decomposition based Background/Foreground Separation in Noisy Videos and Its Applications in Additive Manufacturing.</span></b>  <i>IEEE Transactions on Automation Science and Engineering.</i> (2022) <br>[[Paper]](https://doi.org/10.1109/TASE.2022.3163674) 
@@ -11,10 +12,15 @@ author_profile: true
     * <span style="color: Tomato"> **Finalists for INFORMS QSR Best Refereed Paper Competition, 2020** </span>  
     * <span style="color: Tomato"> **Second place of poster competition in INFORMS & HFES Student Poster Competition, ISE, Virginia Tech, 2019** </span>   
 5. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Clustered Discriminant Regression for High Dimensional Data Feature Extraction and Its Applications in Healthcare and Additive Manufacturing.</span></b> <i>IEEE Transactions on Automation Science and Engineering.</i> (2020) <br> [[Paper]](https://ieeexplore.ieee.org/document/9237105)   [[Code]](https://github.com/BoShen0/TASE-CDR)
-6. <b><ins>Bo Shen</ins></b> and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Novel Active Anomaly Discovery Method and its Applications in Additive Manufacturing.</span></b> Major revision at <i>IISE Transactions.</i> (2022) <br>[[Preprint]](https://doi.org/10.36227/techrxiv.16674412.v1) 
-    * <span style="color: Tomato"> **Finalists for INFORMS Data Mining Section Best Paper Award (Student Track), 2021**  </span>  
-7. Rongxuan Wang, David Garcia, Rakesh Kamath, Chaoran Dou, Xiaohan Ma, <b><ins>Bo Shen</ins></b>,  Hahn Choo, Kamel Fezzaa, Hang Yu, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">In-process Multi-physics Melt Pool Measurement and Correlation Analysis in Laser Powder Bed Fusion.</span></b> <i>Scientific Reports.</i> (2022) <br>[[Paper]](https://www.nature.com/articles/s41598-022-18096-w)
+6. Rongxuan Wang, David Garcia, Rakesh Kamath, Chaoran Dou, Xiaohan Ma, <b><ins>Bo Shen</ins></b>,  Hahn Choo, Kamel Fezzaa, Hang Yu, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">In-process Multi-physics Melt Pool Measurement and Correlation Analysis in Laser Powder Bed Fusion.</span></b> <i>Scientific Reports.</i> (2022) <br>[[Paper]](https://www.nature.com/articles/s41598-022-18096-w)
     * <span style="color: Tomato">  **Winner for IISE Manufacturing and Design (M&D) Division Best Paper Award**  </span>  
+
+## Under Review
+
+{:start="7"}
+
+7. <b><ins>Bo Shen</ins></b> and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Novel Active Anomaly Discovery Method and its Applications in Additive Manufacturing.</span></b> Major revision at <i>IISE Transactions.</i> (2022) <br>[[Preprint]](https://doi.org/10.36227/techrxiv.16674412.v1) 
+    * <span style="color: Tomato"> **Finalists for INFORMS Data Mining Section Best Paper Award (Student Track), 2021**  </span>  
 8. Yi Chen, Jing Dong, Xin T. Tong, and <b><ins>Bo Shen</ins></b>.  <b><span style="color:RoyalBlue">Can We Do Better than Random Start? The Power of Data Outsouring.</span></b> Under second round review. <br>[[Preprint]](https://arxiv.org/abs/2205.08098)
 9. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Mask-guided Attention Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> Under second round review at <i>IISE Transactions on Healthcare Systems Engineering.</i> (2022) <br>[[Preprint]](https://doi.org/10.36227/techrxiv.18166667.v1)
     * <span style="color: Tomato"> **Runner-up for INFORMS QSR Industry Data Challenge, 2020**  </span>  
@@ -26,7 +32,7 @@ author_profile: true
 13. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Imbalanced Data Classification via Generative Adversarial Network with Application to Anomaly Detection in Additive Manufacturing Processes.</span></b> Under review at <i>IEEE Transactions on Automation Science and Engineering.</i> (2022) 
 14. Raghav Gnanasambandam, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Deep Gaussian Process Upper Confidence Bound for Optimizing Non-Stationary Functions and its Application in Additive Manufacturing.</span></b> Under review at <i>IISE Transactions.</i> (2022)
 
-# Working Journal Papers
+## Working Journal Papers
 
 {:start="15"}
 
