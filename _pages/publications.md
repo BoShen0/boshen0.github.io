@@ -3,9 +3,8 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-## Journal Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en)
-
-### Published/Accepted 
+# Journal Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en)
+## Published/Accepted 
 1. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Smooth Robust Tensor Completion for Background/Foreground Separation with Missing Pixels: Novel Algorithm with Convergence Guarantee.</span></b> _Journal of Machine Learning Research_. (2022) <br>[[Paper]](https://jmlr.org/papers/v23/22-0369.html) [[Code]](https://github.com/BoShen0/Smooth-Robust-Tensor-Completion-for-Background-Foreground-Separation-with-Missing-Pixels)
 2. <b><ins>Bo Shen</ins></b>, Raghav Gnanasambandam, Rongxuan Wang, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Multi-Task Gaussian Process Upper Confidence Bound for Hyperparameter Tuning and its Application for Simulation Studies of Additive Manufacturing.</span></b> <i>IISE Transactions.</i> (2022)  <br>[[Paper]](https://www.tandfonline.com/doi/full/10.1080/24725854.2022.2039813) [[Code]](https://github.com/BoShen0/Multi-task-GPUCB)
 3. <b><ins>Bo Shen</ins></b>, Rakesh Kamath, Hahn Choo, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Robust Tensor Decomposition based Background/Foreground Separation in Noisy Videos and Its Applications in Additive Manufacturing.</span></b>  <i>IEEE Transactions on Automation Science and Engineering.</i> (2022) <br>[[Paper]](https://doi.org/10.1109/TASE.2022.3163674) 
@@ -43,10 +42,10 @@ author_profile: true
 18. <b><ins>Bo Shen</ins></b>, Jihoon Chung, Yi Chen, Raghav Gnanasambandam, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Nonnegative Tensor-on-Tensor Regression with  Wasserstein Loss.</span></b> To be submitted (2022) 
 
 
-## Conference Papers 
+# Conference Papers 
 {:start="19"}
 
 19. Maede Maftouni, Andrew Chung Chee Law, <b><ins>Bo Shen</ins></b>, Yanze Zhou, Niloofar Ayoobi Yazdi, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Robust Ensemble-Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> <i>Conference: Proceedings of the 2021 IISE Annual Conference</i> <br>[[Paper]](https://www.proquest.com/docview/2560887697) [[Code]](https://github.com/maftouni/Corona_CT_Classification) [[Dataset]](https://github.com/maftouni/Curated_Covid_CT) [[Poster]](http://boshen0.github.io/files/CovidIISE.pdf)
 
-## Notes
+# Notes
 <b><span style="color:RoyalBlue">Robust Tensor Principal Component Analysis: Exact Recovery via Deterministic Model.</span></b> <br>[[Preprint]](https://arxiv.org/abs/2008.02211)
