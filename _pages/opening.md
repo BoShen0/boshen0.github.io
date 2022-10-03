@@ -1,6 +1,6 @@
 ---
 permalink: /opening/
-title: "Opening"
+title: "Openings"
 excerpt: ""
 author_profile: true
 redirect_from: 
