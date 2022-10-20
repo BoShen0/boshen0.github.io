@@ -14,6 +14,7 @@ author_profile: true
 *  Winner for [IISE QCRE Division Best Student Paper Award](https://www.iise.org/Details.aspx?id=29058) (2022)
 *  Member of [Graduate Academy for Teaching Excellence](http://vtgrate.org/membership/application-and-review/), Virginia Tech (2022)
 *  ISE Outstanding PhD Student of the Year, Virginia Tech (2022)
+*  INFORMS Student Chapter Annual Award as a Maga Cum Laude (2021, 2022)
 *  Finalists for [INFORMS Data Mining Section Best Paper Award](https://connect.informs.org/data-mining/awards/prize/new-item222758667) (Student Track, 2021)
 *  Runner-up for [INFORMS QSR Industry Data Challenge](https://connect.informs.org/qsr/awards) (2020) 
 *  Finalists for [INFORMS QSR Best Refereed Paper Competition](https://connect.informs.org/qsr/awards)  (2020)
