@@ -21,7 +21,7 @@ I am looking for self-motivated Ph.D. students with strong Math/Stat backgound o
    * Methodology: Tensor data analysis; Optimization theory; Statistical learning; Machine learning; Deep Learning.
    * Application: Smart manufacturing; Additive manufacturing; Cybersecurity; Industrial Internet of Things (IIoT); Healthcare.
 
-# News
+# News (_Last Updated May, 2022_)
 [**May 2022**] All four [SMART lab](https://www.smartlab-vt.com/) teams won first place in their best paper competitions at [the 2022 IISE Annual Conference](https://www.iise.org/annual/)!! I am so proud to be a member of the SMART lab and co-autohered these four papers! \
 [**May 2022**] Our paper _"Self-scalable Tanh (Stan): Faster Convergence and Better Generalization in Physics-informed Neural Networks"_ was the Winner for [IISE QCRE/ProcessMiner Data Challenge Competition](https://processminer.com/processminer-sponsor-iise-qcre-challenge/#:~:text=ATLANTA%2C%20GA%2C%20September%208%2C,Industrial%20and%20Systems%20Engineers%20(IISE)) \
 [**May 2022**] Our paper _"In-process Multi-physics Melt Pool Measurement and Correlation Analysis in Laser Powder Bed Fusion"_ was the Winner for IISE Manufacturing and Design (M&D) Division Best Paper Award\
