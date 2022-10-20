@@ -36,6 +36,7 @@ author_profile: true
 15. Raghav Gnanasambandam, <b><ins>Bo Shen</ins></b>, Jihoon Chung, Xubo Yue, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Self-scalable Tanh (Stan): Faster Convergence and Better Generalization in Physics-informed Neural Networks.</span></b> Submitted (2022)  <br>[[Preprint]](https://arxiv.org/abs/2204.12589) 
     *  <span style="color: Tomato"> **Winner for INFORMS Data Mining and Decision Analytics Workshop Poster Competition (2022)**  </span> 
     *  <span style="color: Tomato"> **Winner for IISE QCRE/ProcessMiner Data Challenge Competition (2022)**  </span>  
+
 ## Working Journal Papers
 
 {:start="16"}
