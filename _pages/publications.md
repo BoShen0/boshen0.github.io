@@ -14,19 +14,19 @@ author_profile: true
 5. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Clustered Discriminant Regression for High Dimensional Data Feature Extraction and Its Applications in Healthcare and Additive Manufacturing.</span></b> <i>IEEE Transactions on Automation Science and Engineering.</i> (2020) <br> [[Paper]](https://ieeexplore.ieee.org/document/9237105)   [[Code]](https://github.com/BoShen0/TASE-CDR)
 6. Rongxuan Wang, David Garcia, Rakesh Kamath, Chaoran Dou, Xiaohan Ma, <b><ins>Bo Shen</ins></b>,  Hahn Choo, Kamel Fezzaa, Hang Yu, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">In-process Multi-physics Melt Pool Measurement and Correlation Analysis in Laser Powder Bed Fusion.</span></b> <i>Scientific Reports.</i> (2022) <br>[[Paper]](https://www.nature.com/articles/s41598-022-18096-w)
     * <span style="color: Tomato">  **Winner for IISE Manufacturing and Design (M&D) Division Best Paper Award (2022)**  </span>  
-
-## Under Review/Revision
-
-{:start="7"}
-
-7. <b><ins>Bo Shen</ins></b> and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Novel Active Anomaly Discovery Method and its Applications in Additive Manufacturing.</span></b> Major revision at <i>IISE Transactions.</i> (2022) <br>[[Preprint]](https://doi.org/10.36227/techrxiv.16674412.v1) 
-    * <span style="color: Tomato"> **Finalists for INFORMS QSR Best Refereed Paper Competition (2022)** </span> 
-    * <span style="color: Tomato"> **Finalists for INFORMS Data Mining Section Best Paper Award (Student Track, 2021)**  </span>  
-8. Yi Chen, Jing Dong, Xin T. Tong, and <b><ins>Bo Shen</ins></b>.  <b><span style="color:RoyalBlue">Can We Do Better than Random Start? The Power of Data Outsouring.</span></b> Under second round review. <br>[[Preprint]](https://arxiv.org/abs/2205.08098)
-9. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Mask-guided Attention Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> Under second round review at <i>IISE Transactions on Healthcare Systems Engineering.</i> (2022) <br>[[Preprint]](https://doi.org/10.36227/techrxiv.18166667.v1)
+7. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Mask-guided Attention Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> Under second round review at <i>IISE Transactions on Healthcare Systems Engineering.</i> (2022) <br>[[Preprint]](https://doi.org/10.36227/techrxiv.18166667.v1)
     * <span style="color: Tomato"> **Winner for INFORMS QSR Best Case Study Paper Competition (2022)**  </span> 
     * <span style="color: Tomato"> **Runner-up for INFORMS QSR Industry Data Challenge (2020)**  </span>  
     * <span style="color: Tomato"> **Second place of poster competition in INFORMS & HFES Student Poster Competition, ISE, Virginia Tech (2020)**  </span>  
+
+## Under Review/Revision
+
+{:start="8"}
+
+8. <b><ins>Bo Shen</ins></b> and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Novel Active Anomaly Discovery Method and its Applications in Additive Manufacturing.</span></b> Major revision at <i>IISE Transactions.</i> (2022) <br>[[Preprint]](https://doi.org/10.36227/techrxiv.16674412.v1) 
+    * <span style="color: Tomato"> **Finalists for INFORMS QSR Best Refereed Paper Competition (2022)** </span> 
+    * <span style="color: Tomato"> **Finalists for INFORMS Data Mining Section Best Paper Award (Student Track, 2021)**  </span>  
+9. Yi Chen, Jing Dong, Xin T. Tong, and <b><ins>Bo Shen</ins></b>.  <b><span style="color:RoyalBlue">Can We Do Better than Random Start? The Power of Data Outsouring.</span></b> Under second round review. <br>[[Preprint]](https://arxiv.org/abs/2205.08098)
 10. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Novel Sparse Bayesian Learning and Its Application to Fault Diagnosis for Multi-station Assembly Systems.</span></b> Major revision at <i>IISE Transactions.</i> (2022)
 11. Jihoon Chung, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Reinforcement Learning-based Defect Mitigation for Quality Assurance of Additive Manufacturing.</span></b> Under review at <i>Journal of Manufacturing Systems.</i> (2022)
     *  <span style="color: Tomato"> **Winner for IISE QCRE Division Best Student Paper Award**  </span>  
