@@ -13,28 +13,11 @@ redirect_from:
 </p>
  -->
 
-This website is no longer being updated as of 05/22/2022. Please refer to my new webpage here: https://sites.google.com/view/boshen
+**This website is no longer being updated as of 05/22/2022. Please refer to my new webpage here: [https://sites.google.com/view/boshen](https://sites.google.com/view/boshen)**
 
 # About Me
 I am an Assistant Professor in the [Department of Mechanical and Industrial Engineering, New Jersey Institute of Technology](https://mie.njit.edu/).  I obtained my Ph.D. in the [Industrial and Systems Engineering](https://www.ise.vt.edu/) at [Virginia Tech](https://vt.edu/). I received my B.S. of Statistics from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/)  in 2017. Some of my profiles are available: [[Google Scholar](https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en)] [[ResearchGate](https://www.researchgate.net/profile/Bo-Shen-22)].
 
-
-## Reseach Interest
-   * Methodology: Tensor data analysis; Optimization theory; Statistical learning; Machine learning; Deep Learning.
-   * Application: Smart manufacturing; Additive manufacturing; Cybersecurity; Industrial Internet of Things (IIoT); Healthcare.
-
-# News 
-(_Last Updated May, 2022_)\
-[**May 2022**] All four [SMART lab](https://www.smartlab-vt.com/) teams won first place in their best paper competitions at [the 2022 IISE Annual Conference](https://www.iise.org/annual/)!! I am so proud to be a member of the SMART lab and co-autohered these four papers! \
-[**May 2022**] Our paper _"Self-scalable Tanh (Stan): Faster Convergence and Better Generalization in Physics-informed Neural Networks"_ was the Winner for [IISE QCRE/ProcessMiner Data Challenge Competition](https://processminer.com/processminer-sponsor-iise-qcre-challenge/#:~:text=ATLANTA%2C%20GA%2C%20September%208%2C,Industrial%20and%20Systems%20Engineers%20(IISE)) \
-[**May 2022**] Our paper _"In-process Multi-physics Melt Pool Measurement and Correlation Analysis in Laser Powder Bed Fusion"_ was the Winner for IISE Manufacturing and Design (M&D) Division Best Paper Award\
-[**May 2022**]  Our paper  _"Automatic Melt Pool Segmentation and Tracking in the X-ray Image Sequence"_ was the Winner for [IISE Manufacturing and Design (M&D) Division Best Student Paper Award](https://www.iise.org/Details.aspx?id=38051) \
-[**May 2022**] Our paper  _"Reinforcement Learning-based Defect Mitigation for Quality Assurance of Additive Manufacturing"_ was the Winner for [IISE QCRE Division Best Student Paper Award](https://www.iise.org/Details.aspx?id=29058) \
-[**March 2022**] I was selected as a Member of [Graduate Academy for Teaching Excellence](http://vtgrate.org/membership/application-and-review/), Virginia Tech  \
-[**March 2022**] I was awarded as the ISE Outstanding PhD Student of the Year, Virginia Tech  \
-[**October 2021**] Our paper _"A Novel Anomaly Discovery Method and its Applications in Additive Manufacturing"_ was selected as the Finalists for [INFORMS Data Mining Section Best Paper Award](https://connect.informs.org/data-mining/awards/prize/new-item222758667) (Student Track)  \
-[**October 2020**] Our paper _"A Mask-guided Attention Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database"_ was selected as the Runner-up for [INFORMS QSR Industry Data Challenge](https://connect.informs.org/qsr/awards)  \
-[**October 2020**]  Our paper  _"Super Resolution for Multi-Sources Image Stream Data Using Smooth and Sparse Tensor Completion and Its Applications in Data Acquisition of Additive Manufacturing"_  was selected as the Finalists for [INFORMS QSR Best Refereed Paper Competition](https://connect.informs.org/qsr/awards)
 
 
  
