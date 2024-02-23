@@ -12,10 +12,12 @@ redirect_from:
   <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
  -->
+
+This website is no longer being updated as of 05/22/2022. Please refer to my new webpage here: https://sites.google.com/view/boshen
+
 # About Me
 I am an Assistant Professor in the [Department of Mechanical and Industrial Engineering, New Jersey Institute of Technology](https://mie.njit.edu/).  I obtained my Ph.D. in the [Industrial and Systems Engineering](https://www.ise.vt.edu/) at [Virginia Tech](https://vt.edu/). I received my B.S. of Statistics from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/)  in 2017. Some of my profiles are available: [[Google Scholar](https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en)] [[ResearchGate](https://www.researchgate.net/profile/Bo-Shen-22)].
 
-I am looking for self-motivated Ph.D. students with strong Math/Stat backgound or hands-on experience in experiments. More details are in [Openings](https://boshen0.github.io/opening/). Please contact me at :email: [bo.shen@njit.edu](mailto:bo.shen@njit.edu)  if you are interested in working with me. 
 
 ## Reseach Interest
    * Methodology: Tensor data analysis; Optimization theory; Statistical learning; Machine learning; Deep Learning.
